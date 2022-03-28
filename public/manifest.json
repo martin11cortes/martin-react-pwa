@@ -24,9 +24,33 @@
       "sizes": "512x512"
     }
   ],
+  "screenshots": [
+    {
+      "src": "screenshots/pc-ss.png",
+      "sizes": "1024x318",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Login"
+    },
+    {
+      "src": "screenshots/phone-ss.png",
+      "sizes": "480x800",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Crédito"
+    },
+    {
+      "src": "screenshots/tablet-ss.png",
+      "sizes": "800x1280",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Inicio"
+    }
+  ],
   "start_url": ".",
+  "description": "evorvunseaoijrnvoeinrvoweinrv owein wo woinw oien owe oiwe oiwevoiwivj env sokjv zxpkv apijv aipdvj pzdkj vapeijv werov eakjf kawe  ewifc aw'eiv aijdsn fg'iasd fisad g´fmasovadf,vóaeiv io voáwen vosadvoásd víojdaf g",
   "display": "standalone",
   "theme_color": "#000000",
-  "prefer_related_applications": "true",
+  "prefer_related_applications": true,
   "background_color": "#ffffff"
 }
